@@ -84,6 +84,12 @@ const team = [
     position: "top" 
   },
   { 
+    name :"Secretaria Geral",
+    role: "Secretaria",
+    image: "/images/WhatsApp Image 2026-05-25 at 10.51.38.jpeg",
+    position: "top"
+  },
+  {
     name: "Diretor Administrativa", 
     role: "Administrativo", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09-7mkil78j9YoV5YSgf7tqi47Nd6eezV.jpeg",
