@@ -63,13 +63,13 @@ const team = [
     name: "Auxiliar de Marketing", 
     role: "Marketing", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09%20%283%29-SlZK17GTI6mfwu831EM99CyTI8n7TU.jpeg",
-    position: "center" 
+    position: "top" 
   },
   { 
     name: "Diretor Financeiro", 
     role: "Tesouraria ", 
-    image: null,
-    position: "center" 
+    image: "/images/WhatsApp Image 2026-05-25 at 10.41.42.jpeg",
+    position: "top" 
   },
   { 
     name: "Auxiliar Financeira", 
