@@ -37,6 +37,7 @@ async function getEvents(): Promise<SheetEvent[]> {
     // revalidate: 21600 define a atualização do cache para acontecer a cada 6 horas
     const response = await fetch('https://sheetdb.io/api/v1/m1eeq8ljwrfly', {
       //next: { revalidate: 7200 }
+      cache: 'no-store'
     });
     
     if (!response.ok) return [];
