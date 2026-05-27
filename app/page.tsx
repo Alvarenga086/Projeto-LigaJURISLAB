@@ -242,7 +242,7 @@ export default async function HomePage() {
           </div>
 
           <p className="text-center text-[#f5f5f0]/60 mt-8 text-sm">
-            * Novos eventos são adicionados semanalmente. Fique atento às nossas redes sociais!
+            * Novos eventos são adicionados mensalmente. Fique atento às nossas redes sociais!
           </p>
         </div>
       </section>
