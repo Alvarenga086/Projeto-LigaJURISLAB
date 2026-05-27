@@ -7,74 +7,74 @@ import { ChevronLeft, ChevronRight, User } from "lucide-react"
 
 const team = [
   { 
-    name: "Presidente", 
-    role: "Presidência", 
+    name: "Danielle Vitória", 
+    role: "Presidente", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.34.26-XTCI54iUpQErSbmHcGU4qPQVtdSWLT.jpeg",
     position: "top" 
   },
   { 
-    name: "Vice-Presidente", 
-    role: "Vice-Presidência", 
+    name: "Vívian Emanuelly", 
+    role: "Vice-Presidente", 
     image: "/images/WhatsApp Image 2026-05-24 at 16.38.48.jpeg",
     position: "center" 
   },
   { 
-    name: "Diretora de Projeto", 
-    role: "Projetos", 
+    name: "Maria Clara Sousa", 
+    role: "Diretora de Projetos", 
     image: "/images/WhatsApp Image 2026-05-25 at 10.20.36.jpeg",
     position: "top" 
   },
   { 
-    name: "Diretora de Marketing", 
-    role: "Marketing", 
+    name: "Ana Vitória", 
+    role: "Diretora de Marketing", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.08%20%281%29-0QgY4CsfJPCZ5Vj0LoLEfjmpGu789Q.jpeg",
     position: "center" 
   },
   { 
-    name: "Auxiliar de Marketing", 
-    role: "Marketing", 
+    name: "Quérem Hapuque", 
+    role: "Auxiliar de Marketing", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09%20%283%29-SlZK17GTI6mfwu831EM99CyTI8n7TU.jpeg",
     position: "top" 
   },
   { 
-    name: "Diretor Financeiro", 
-    role: "Tesouraria ", 
+    name: "Luis Gustavo", 
+    role: "Diretor Financeiro", 
     image: "/images/WhatsApp Image 2026-05-25 at 10.41.42.jpeg",
     position: "top" 
   },
   { 
-    name: "Auxiliar Financeira", 
-    role: "Tesouraria ", 
+    name: "Vanessa Krysna", 
+    role: "Assistente Financeiro", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09%20%281%29-fZJ1O0Dm4cQJooxA0jRFO0MVV2ZwLo.jpeg",
     position: "center" 
   },
   { 
-    name: "Diretor de Comunicação", 
-    role: "Comunicação", 
+    name: "Jeremias Rodrigues", 
+    role: "Diretor de Comunicação", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09%20%282%29-yROtC9HUfckOv4I2xhwH31VSitgG6O.jpeg",
     position: "top" 
   },
   { 
-    name :"Secretaria Geral",
-    role: "Secretaria",
+    name :"Josnayra Rayane",
+    role: "Secretaria Geral",
     image: "/images/WhatsApp Image 2026-05-25 at 10.51.38.jpeg",
     position: "top"
   },
   {
-    name: "Diretor Administrativa", 
-    role: "Administrativo", 
+    name: "Sena Santos", 
+    role: "Diretor Administrativa", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.09-7mkil78j9YoV5YSgf7tqi47Nd6eezV.jpeg",
     position: "center" 
   },
   { 
-    name: "Diretora Acadêmica", 
-    role: "Acadêmico", 
+    name: "Cleidivane Lima", 
+    role: "Diretora Acadêmica", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.27.08-Nj3eyjak4nbjXJFjD25FW5GzdjPUkb.jpeg",
     position: "center" 
   },
   { 
-    name: "Professora Orientadora", 
-    role: "Orientação", 
+    name: "Janaína Félix", 
+    role: "Professora Orientadora", 
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-24%20at%2015.48.27-jXLaZ3OQukjbMx4qswMb85XR4ml0Zl.jpeg",
     position: "top" 
   },

@@ -112,7 +112,7 @@ export default async function HomePage() {
           </p>
           
           <p className="text-lg text-[#f5f5f0]/80 mb-8 max-w-2xl mx-auto">
-            Promovendo knowledge, pesquisa e extensão jurídica
+            Promovendo conhecimento, pesquisa e extensão jurídica
           </p>
           
           <div className="flex items-center justify-center gap-2 text-[#f5f5f0]/60 mb-12">
